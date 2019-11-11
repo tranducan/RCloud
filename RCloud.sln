@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RCloud", "RCloud.csproj", "{182AFAD1-7544-4D0C-93D5-DE84EF4CBB23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182AFAD1-7544-4D0C-93D5-DE84EF4CBB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182AFAD1-7544-4D0C-93D5-DE84EF4CBB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182AFAD1-7544-4D0C-93D5-DE84EF4CBB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182AFAD1-7544-4D0C-93D5-DE84EF4CBB23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38BC352A-7F5B-491A-B9C0-A5EBEF0DD1FA}
+	EndGlobalSection
+EndGlobal

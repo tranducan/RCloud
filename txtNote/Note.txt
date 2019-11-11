@@ -1,0 +1,2 @@
+﻿1. Install-package NGgsql to connect to PostgrecSQL 
+PM> Install-Package Npgsql -Version 4.0.9	
